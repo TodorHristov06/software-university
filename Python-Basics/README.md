@@ -1,6 +1,10 @@
-# <p align="center"><a href="https://softuni.bg/trainings/4757/programming-basics-with-python-november-2024">Programming Basics with Python - November 2024</a><p/>
+<h1 align="center">
+    <a href="https://softuni.bg/trainings/4757/programming-basics-with-python-november-2024" style="color: #8a2be2;">
+        Programming Basics with Python - November 2024
+    </a>
+</h1>
 
-The **Programming Basics with Python** course is designed to build foundational programming skills, serving as the first step for all technology-oriented programs at Software University.
+<p align="center">The <strong>Programming Basics with Python</strong> course is designed to build foundational programming skills, serving as the first step for all technology-oriented programs at Software University.</p>
 
 ## Course Overview
 
