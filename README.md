@@ -8,7 +8,7 @@
     <th><a href="https://softuni.bg/certificates/details/233488/1b6e5e6f"> Certificate </a></th>
   </tr>
   <tr>
-    <th><a href="https://softuni.bg/trainings/4757/programming-basics-with-python-november-2024"> Programming Fundamentals with Python </a></th>
+    <th><a href="https://softuni.bg/trainings/4832/programming-fundamentals-with-python-january-2025"> Programming Fundamentals with Python </a></th>
     <th><a href="https://softuni.bg/certificates/details/240279/ef68cece"> Certificate </a></th>
   </tr>
   </table>
