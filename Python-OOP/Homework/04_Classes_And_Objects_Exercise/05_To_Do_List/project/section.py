@@ -1,4 +1,4 @@
-from .task import Task
+from project.task import Task
 
 class Section:
     def __init__(self, name: str):
